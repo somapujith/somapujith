@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujith</h1>
 <h3 align="center">A passionate frontend developer from Hyderabad</h3>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI Tool and DSA**
 
 - 👨‍💻 All of my projects are available at [github.com/somapujith](github.com/somapujith)
 
